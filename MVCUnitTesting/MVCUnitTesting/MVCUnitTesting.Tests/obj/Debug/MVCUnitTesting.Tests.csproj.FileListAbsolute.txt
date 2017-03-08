@@ -1,0 +1,97 @@
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.Tests.dll.config
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.Tests.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.Tests.pdb
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Helpers.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Mvc.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Razor.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Telerik.JustMock.Container.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Telerik.JustMock.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Optimization.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Owin.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\EntityFramework.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Security.Forms.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\WebGrease.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.pdb
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Helpers.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Mvc.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Razor.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\EntityFramework.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Security.Forms.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\obj\Debug\MVCUnitTesting.Tests.csprojResolveAssemblyReference.cache
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\obj\Debug\MVCUnitTesting.Tests.dll
+C:\temp\aspdotnet-mvc-testing-from-scratch\3-mvc-testing-fs-m3-exercise-files\Second Controller Tests\MVCUnitTesting\MVCUnitTesting.Tests\obj\Debug\MVCUnitTesting.Tests.pdb
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.Tests.dll.config
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.Tests.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.Tests.pdb
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Helpers.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Mvc.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Razor.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Telerik.JustMock.Container.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Telerik.JustMock.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\EntityFramework.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Optimization.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Owin.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Security.Forms.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\WebGrease.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Security.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Antlr3.Runtime.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\MVCUnitTesting.pdb
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Helpers.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Mvc.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.Razor.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\EntityFramework.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Security.Forms.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\bin\Debug\Microsoft.Owin.Security.xml
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\obj\Debug\MVCUnitTesting.Tests.csprojResolveAssemblyReference.cache
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\obj\Debug\MVCUnitTesting.Tests.dll
+H:\FOOP\week_3\MVCUnitTesting\MVCUnitTesting\MVCUnitTesting.Tests\obj\Debug\MVCUnitTesting.Tests.pdb
